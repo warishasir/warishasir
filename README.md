@@ -1,54 +1,55 @@
-# 👋 Hey, I'm Waris! (@warishasir)
+👋 Hey, I'm Waris! (@warishasir)
+Welcome to my GitHub! I'm a passionate designer and developer at Shiveh Agency, creating seamless digital experiences. I blend stunning visuals using Figma, Canva, and Photoshop with robust web apps built on Next.js, React, and Tailwind CSS. Let’s craft something extraordinary!
+👀 What I Love
 
-Welcome to my GitHub! I'm a passionate developer and designer crafting digital experiences with **Shiveh Agency**. I love building sleek, user-friendly websites and engaging content using modern tech stacks.
+Designing intuitive UI/UX with Figma and Photoshop
+Crafting vibrant graphics and branding with Canva
+Building dynamic, responsive web apps with Next.js and React
+Creating scalable backends using Supabase and Firebase
+Writing efficient Python scripts for automation and data projects
 
-## 👀 Interests
-- Building dynamic web apps with **Next.js**, **React**, and **Tailwind CSS**
-- Creating scalable backends with **Supabase** and **Firebase**
-- Writing clean, efficient code in **Python** for automation and data projects
-- Designing minimalist, impactful UI/UX with **HTML** and **CSS**
+🌱 What I'm Learning
 
-## 🌱 Currently Learning
-- Advanced **Next.js** features for server-side rendering and static site generation
-- Real-time database management with **Supabase** and **Firebase**
-- Deepening my **Python** skills for machine learning and scripting
-- Exploring **Tailwind CSS** for rapid, responsive design
+Advanced Figma prototyping for interactive designs
+Streamlined design workflows in Canva for social media and marketing
+Professional image editing in Photoshop for stunning visuals
+Optimizing Next.js for SSR and static site generation
+Real-time data solutions with Supabase and Firebase
+Advancing Python for machine learning and scripting
 
-## 💞️ Looking to Collaborate On
-- Open-source **React** or **Next.js** projects
-- Creative web design projects using **Tailwind CSS**
-- Backend solutions with **Supabase** or **Firebase**
-- Fun **Python** projects, from automation to data visualization
+💞️ Let’s Collaborate On
 
-## 📫 Reach Me
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 Website: [shivehagency.com](https://shivehagency.com)
-- 🐦 X: [@yourXhandle](https://x.com/yourXhandle)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+UI/UX projects using Figma or Photoshop
+Branding and social media assets with Canva
+Open-source React or Next.js web apps
+Backend solutions with Supabase or Firebase
+Creative Python projects for automation or visualization
 
-## 😄 Pronouns
-She/Her
+📫 Connect With Me
 
-## ⚡ Fun Fact
-I once built a fully functional restaurant menu in **React** in under 24 hours for a client at Shiveh Agency! 🚀
+📧 Email: warishasir10@gmail.com
+🌐 Website: shivehagency.com
+🐦 X: @wariscrypto
 
----
+😄 Pronouns
+He/Him
+⚡ Fun Fact
+I designed and coded a restaurant menu in Figma and React in under 24 hours for a Shiveh Agency client, wowing them with pixel-perfect visuals! 🚀
 
-### 🛠️ My Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+🛠️ My Tech & Design Stack
 
-### 📈 What I’m Working On
-- Building responsive websites for Shiveh Agency clients
-- Experimenting with **Supabase** for real-time data-driven apps
-- Creating viral content for social media with **Python** scripts
+🌟 Featured Projects
 
----
+[Restaurant Menu App] Designed UI in Figma and built with React and Tailwind CSS for a Shiveh Agency client. View Repo
+[Social Media Campaign] Created viral graphics using Canva and automated posting with Python. View Repo
+[Real-Time Dashboard] Developed a data-driven app with Supabase and Next.js for live analytics. View Repo
 
-✨ *This repository is my playground for code, creativity, and collaboration. Check out my projects and let’s build something amazing together!*
+📈 What I’m Working On
+
+Designing sleek mockups for Shiveh Agency clients using Figma and Photoshop
+Building engaging social media content with Canva
+Creating real-time apps with Supabase and Next.js
+Automating workflows with Python for efficiency
+
+
+✨ This is my creative hub for design and code. Dive into my projects and let’s build something amazing together!
