@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Waris! (@warishasir)
 
-Welcome to my GitHub! I'm a passionate **designer** and **developer** at [Shiveh Agency](https://shivehagency.com), crafting stunning digital experiences. I create pixel-perfect designs with **Figma**, **Canva**, and **Photoshop**, and build dynamic web apps with **Next.js**, **React**, and **Tailwind CSS**. Let’s create something epic together! 🚀
+Welcome to my GitHub! I'm a passionate **designer** and **developer** at [cokoagency](https://cokoagency.com), crafting stunning digital experiences. I create pixel-perfect designs with **Figma**, **Canva**, and **Photoshop**, and build dynamic web apps with **Next.js**, **React**, and **Tailwind CSS**. Let’s create something epic together! 🚀
 
 ## 🎨 What I Love
 - Designing intuitive UI/UX with **Figma** and **Photoshop**
