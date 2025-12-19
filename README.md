@@ -32,10 +32,6 @@ Welcome to my GitHub! I'm a passionate **designer** and **developer** at [cokoag
 ## 😄 Pronouns
 He/Him
 
-## ⚡ Fun Fact
-I designed and coded a restaurant menu in **Figma** and **React** in under 24 hours for a Coko Agency client, delivering pixel-perfect visuals! 🚀
-
----
 
 ## 🛠️ My Tech & Design Stack
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
