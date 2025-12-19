@@ -26,14 +26,14 @@ Welcome to my GitHub! I'm a passionate **designer** and **developer** at [cokoag
 
 ## 📫 Connect With Me
 - 📧 **Email**: [warishasir10@gmail.com](mailto:warishasir10@gmail.com)
-- 🌐 **Website**: [shivehagency.com](https://shivehagency.com)
-- 🐦 **X**: [@wariscrypto](https://x.com/wariscrypto)
+- 🌐 **Website**: [warishasir.vercel.com]((https://warishasir.vercel.app/))
+- 🐦 **X**: [@warishasir] (https://x.com/warishasir)
 
 ## 😄 Pronouns
 He/Him
 
 ## ⚡ Fun Fact
-I designed and coded a restaurant menu in **Figma** and **React** in under 24 hours for a Shiveh Agency client, delivering pixel-perfect visuals! 🚀
+I designed and coded a restaurant menu in **Figma** and **React** in under 24 hours for a Coko Agency client, delivering pixel-perfect visuals! 🚀
 
 ---
 
