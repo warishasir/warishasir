@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
- I'm a passionate creator at <a href="https://cokoagency.com"><b>cokoagency</b></a>, sitting at the intersection of design and technology. I don't just build apps; I craft intuitive digital journeys.
+ I'm a passionate creator at <a href="https://cokoagency.com"><b>cokoagency</b></a>, sitting at the intersection of design and technology.  I don't just build apps; I craft intuitive digital journeys.
 </p>
 
 <p align="center">
